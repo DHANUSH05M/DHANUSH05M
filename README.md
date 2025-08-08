@@ -4,8 +4,8 @@
 ---
 
 ### 🌟 About Me
-- 🎯 I’m currently working on **[Your Current Project Name or Goal]**
-- 🌱 I’m learning **[Technologies or Skills]**
+- 🎯 I’m currently working on **[Japanese  N4 Exam]**
+- 🌱 I’m learning **[Japanese Language]**
 - 💬 Ask me about **Java, C++, Web Development, and IoT**
 - 📫 Reach me at **m.dhanushh03@gmail.com**
 - ⚡ Fun fact: *I debug faster with coffee ☕*
@@ -40,9 +40,8 @@
 ---
 
 ### 🏆 Achievements & Highlights
-- 🥇 **[Certification / Award Name]**
-- 🏆 Participated in **[Hackathon Name]**
-- ✍️ Published articles on **[Platform]**
+- 🥇 **[Jpanese / N5]**
+- 🏆 Completed **[IBM Certifications ]**
 
 ---
 
