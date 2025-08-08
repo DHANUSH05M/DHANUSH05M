@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,php,html,css,mysql,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,mysql,github" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:m.dhanushh03@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/DHANUSH05M" target="_blank">
