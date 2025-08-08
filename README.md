@@ -7,14 +7,14 @@
 - 🎯 I’m currently working on **[Your Current Project Name or Goal]**
 - 🌱 I’m learning **[Technologies or Skills]**
 - 💬 Ask me about **Java, C++, Web Development, and IoT**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **m.dhanushh03@gmail.com**
 - ⚡ Fun fact: *I debug faster with coffee ☕*
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,php,html,css,javascript,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,php,html,css,mysql,github" />
 </p>
 
 ---
