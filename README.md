@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me
-- 🎯 I’m currently working on **[Japanese  N4 Exam]**
+- 🎯 I’m currently working on **[Japanese  N3 Exam]**
 - 🌱 I’m learning **[Japanese Language]**
 - 💬 Ask me about **Java, C++, Web Development, and IoT**
 - 📫 Reach me at **m.dhanushh03@gmail.com**
