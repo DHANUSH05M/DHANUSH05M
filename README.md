@@ -40,7 +40,7 @@
 ---
 
 ### 🏆 Achievements & Highlights
-- 🥇 **[Jpanese / N5]**
+- 🥇 **[Jpanese / N5 and N4]**
 - 🏆 Completed **[IBM Certifications ]**
 
 ---
